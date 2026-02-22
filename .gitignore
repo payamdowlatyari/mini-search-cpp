@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# CMake build directory
+build/
+cmake-build-*/
+_deps/
+CMakeCache.txt
+CMakeFiles/
+
+# Runtime data directory
+data/
+
+# compile_commands.json
+compile_commands.json
